@@ -30,7 +30,7 @@ Aşağıdaki tabloda, projede kullandığım temel Git komutları ve açıklamal
 
 ---
 
-## ❗ Karşılaştığım Zorluklar
+##  Karşılaştığım Zorluklar
 - **İlk başta komutları karıştırdım.** (Ama pratik yaptıkça öğrendim.)
 - **Merge çakışmaları oldu.** (Çakışmaları elle çözmeyi öğrendim.)
 - **Yanlış branch’te çalıştım.** (Branch’leri kontrol etmeyi alışkanlık haline getirdim.)
