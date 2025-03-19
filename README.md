@@ -1,12 +1,9 @@
 # Git & GitHub Kullanımı
 
-## 📌 Giriş
-Bu dosya, Git ve GitHub kullanırken öğrendiğim temel bilgileri içeriyor.  
-Burada kullandığım komutlar, yaşadığım zorluklar ve süreç boyunca neler öğrendiğimden bahsedeceğim.  
+##iş
 
----
 
-## 🛠 Kullandığım Git Komutları
+## Komutlar
 Aşağıdaki tabloda, projede kullandığım temel Git komutları ve açıklamaları var:
 
 |              Komut |   Açıklama |
@@ -58,5 +55,5 @@ Aşağıdaki tabloda, projede kullandığım temel Git komutları ve açıklamal
 
 ---
 
-![GitHub Logo](image.png)![Uploading indir.jpeg…]()
+
 
